@@ -9,6 +9,6 @@ Nome:Gean Marques
 Matricula:894762 
 
 ## Tela de inspeção com navegador
-![Tela de inspeção com navegador](C:\Users\Geanm\github-classroom\ICEI-DIW\trabalho-pr-tico-semana-01-Gean1218\imagens\Login _ Alura - Cursos online de tecnologia - Google Chrome 15_02_2025 19_26_17.png)
+![Tela de inspeção com navegador](imagens/Login%20_%20Alura%20-%20Cursos%20online%20de%20tecnologia%20-%20Google%20Chrome%2015_02_2025%2019_26_17.png) 
 ## Tela de projeto no Replit
-![Tela de projeto no Replit](C:\Users\Geanm\github-classroom\ICEI-DIW\trabalho-pr-tico-semana-01-Gean1218\imagens\Site EM HTML.png)
+![Tela de projeto no Replit](imagens/Site%20EM%20HTML.png)
